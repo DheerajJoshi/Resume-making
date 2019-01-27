@@ -1,4 +1,4 @@
-# dheeraj.github.io
+# Resume Making
 Currently it only contains my resume. I used latex to create resume. 
 
 Overleaf is really helpful in making resume. Please check it out.
